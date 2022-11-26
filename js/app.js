@@ -25,7 +25,7 @@ function R(min,max) { return min+Math.random() * (max-min) };
 
 /* https://mattboldt.com/typed.js/ */
 var typed = new Typed('#text', {
-    strings: ['We live in a period in which artists are not very popular. But, believe me, you have my sympathy.'],
+    strings: ['We live in a period in which artists are not very popular. But, believe me, you have my sympathy. Especially thanks for snapping fingers, it means a lot for me. Wish you a white Christmas! (And when you run out of white, just open a bottle of red). You can sit on my lap and tell me what you want this year.'],
     startDelay: 3000,
     typeSpeed: 50,
     backSpeed: 0,
