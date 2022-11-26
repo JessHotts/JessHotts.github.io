@@ -25,7 +25,7 @@ function R(min,max) { return min+Math.random() * (max-min) };
 
 /* https://mattboldt.com/typed.js/ */
 var typed = new Typed('#text', {
-    strings: ['Многие программы электронной вёрстки и редакторы HTML используют Lorem Ipsum в качестве текста по умолчанию, так что поиск по ключевым словам "lorem ipsum" сразу показывает, как много веб-страниц всё ещё дожидаются своего настоящего рождения. За прошедшие годы текст Lorem Ipsum получил много версий.'],
+    strings: ['We live in a period in which artists are not very popular. But, believe me, you have my sympathy.'],
     startDelay: 3000,
     typeSpeed: 50,
     backSpeed: 0,
